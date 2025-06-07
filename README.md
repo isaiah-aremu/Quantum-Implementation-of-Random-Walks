@@ -18,3 +18,10 @@ Directed random graphs for four musicians, where each node is a tuple (chord, in
 
 **MIDI Output:**
 Scripts to convert quantum walk output sequences into MIDI files using music21. Different instruments are assigned per musician to enrich the harmonic texture.
+
+**References**
+1. Aharonov et al., "Quantum walks on graphs," 1993
+2. Szegedy, "Quantum speed-up of Markov chain based algorithms," 2004
+3. Ambainis, "Quantum walk algorithm for element distinctness," 2007
+4. Portugal, "Quantum Walks and Search Algorithms," 2013
+5. Tom Wong, "Quantum Walks on graphs," 2017
