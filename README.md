@@ -25,3 +25,4 @@ Scripts to convert quantum walk output sequences into MIDI files using music21. 
 3. Ambainis, "Quantum walk algorithm for element distinctness," 2007
 4. Portugal, "Quantum Walks and Search Algorithms," 2013
 5. Tom Wong, "Quantum Walks on graphs," 2017
+6. Childs, Andrew M., "Universal computation by quantum walk," 2009
